@@ -5,3 +5,7 @@
 ```
 String name = "Lucas";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portifolio
+- [X] Introduce myself to the world
